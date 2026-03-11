@@ -1,8 +1,4 @@
-/**
- * OOPSBannerApp UC7 - OOPS Banner Display Application
- * @author Satviik Daga
- * @version 7.0
- */
+
 public class OOPSBannerApp {
     static class CharacterPatternMap{
         private char character;
